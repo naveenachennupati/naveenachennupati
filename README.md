@@ -4,13 +4,15 @@
 
 ### Turning security signals into explainable, actionable decisions
 
-**Cybersecurity Analyst | SOC & Incident Response | Microsoft Sentinel | Azure & Entra ID Security | Vulnerability Management**
+**Cybersecurity Analyst | Security Operations & Incident Response | Microsoft Sentinel | Azure & Identity Security**
 
-I work across threat detection, incident investigation, identity governance, and cloud security. My focus is connecting the technical evidence to a clear security decision: **what happened, what matters, who should act, and how we verify it**.
+I am a Cybersecurity Analyst and former Security Engineer with 7+ years of combined experience across SOC monitoring, incident investigation, infrastructure security, identity governance and Microsoft Azure. My focus is translating technical evidence into decisions the security and infrastructure teams can act on: **what happened, what matters, who should act, and how we verify it**.
 
-My background includes security operations at **UnitedHealth Group** and security engineering at **SSPart Enterprise**, working with Microsoft Sentinel, Azure environments, Microsoft Entra ID, Qualys, Windows, Linux, and Active Directory. I also build open, reviewable security engineering tools with documented assumptions, tests, and audit evidence.
+My background includes security operations at **UnitedHealth Group** (Cyber Security Analyst) and infrastructure security engineering at **SSPart Enterprise** (Security Engineer), working with Microsoft Sentinel, Azure environments, Microsoft Entra ID, Qualys, Windows, Linux, and Active Directory. I also build open, reviewable security engineering tools with documented assumptions, tests, and audit evidence.
 
-[**LinkedIn**](https://www.linkedin.com/in/naveenachenn) &nbsp;·&nbsp; [**Email**](mailto:chennu.naveena@gmail.com) &nbsp;·&nbsp; [**GitHub repositories**](https://github.com/naveenachennupati?tab=repositories)
+**Chicago, Illinois · Open to relocation · Full-time / contract opportunities · No employer sponsorship required**
+
+[**Portfolio website**](https://naveenachennupati.github.io/) &nbsp;·&nbsp; [**LinkedIn**](https://www.linkedin.com/in/chnaveena/) &nbsp;·&nbsp; [**Email**](mailto:chennu.naveena@gmail.com) &nbsp;·&nbsp; [**GitHub repositories**](https://github.com/naveenachennupati?tab=repositories)
 
 ### Professional scope
 
@@ -52,7 +54,18 @@ Every project starts with a security operations problem, documents the implement
 
 **Evidence before conclusions.** Capture the source, state assumptions, and preserve enough context to reproduce the result. **Controls before automation.** Keep privilege reviews read-only, require independent approvals for exceptions, and separate detection rule validation from activation. **Operational usefulness.** Prefer understandable alert signals, prioritized owner queues, and actionable remediation decisions over dashboards without clear next steps.
 
-**Core stack:** Microsoft Sentinel · KQL · Azure · Microsoft Entra ID · Microsoft Graph · Azure RBAC · MITRE ATT&CK · Incident Response · Qualys · Microsoft Defender for Cloud · Python · CISA KEV · FIRST EPSS · HIPAA / SOC 2 evidence support
+### Security skills and technologies
+
+| Area | Relevant platforms, practices and methods |
+| --- | --- |
+| **SOC & detection** | Microsoft Sentinel, SIEM, KQL, alert triage, log correlation, MITRE ATT&CK, investigation documentation |
+| **Incident response & forensics** | Containment coordination, compromised credentials, event timeline reconstruction, endpoint forensics support, evidence handling, root-cause analysis |
+| **Cloud & identity** | Azure, Defender for Cloud, Microsoft Entra ID, Active Directory, IAM, RBAC, privileged access reviews, least-privilege governance |
+| **Vulnerability management** | Qualys, CVSS, CISA KEV, FIRST EPSS, risk-based prioritization, vulnerability assessments, remediation tracking |
+| **Security engineering** | Python, detection-as-code, Azure Bicep, Microsoft Graph / ARM API integrations, Git, GitHub Actions, regression tests, security evidence reports |
+| **Systems & assurance** | Windows Server, Linux, endpoint/server logs, HIPAA, SOC 2 audit evidence, access governance, security control documentation |
+
+Research topics include AI for cybersecurity, IoT, 6G networks, quantum cryptography and secure satellite communications. See the complete [skills and experience profile](https://naveenachennupati.github.io/#skills).
 
 ### Research and education
 
@@ -62,8 +75,13 @@ M.S. in Computer Science, Governors State University. Pursuing a PhD in Informat
 
 ### Contact
 
-**Interested in:** Cybersecurity Analyst II/III, SOC Analyst, Security Engineer, Azure Security, IAM / Identity Security, and Vulnerability Management roles.
+**From security signals to decisions teams can act on.** I connect investigation evidence, cloud posture, identity access and vulnerability intelligence to clear, accountable security actions. My focus is understanding what matters, coordinating the response, and validating the outcome.
 
-[**Connect on LinkedIn**](https://www.linkedin.com/in/naveenachenn) &nbsp;·&nbsp; [**Email me**](mailto:chennu.naveena@gmail.com)
+**Focus:** Security Operations · Incident Response · Microsoft Sentinel · Azure / Entra ID Security · IAM / RBAC · Vulnerability Management
 
-<sub>Transparency: The featured GitHub engineering artifacts include generated test scenarios and public intelligence sources. The projects are not represented as customer deployments or production employer systems. Access to actual Azure tenants and enterprise scanner outputs requires separate authorization.</sub>
+**Availability:** Open to full-time and contract cybersecurity opportunities · Chicago, Illinois
+
+[**Portfolio**](https://naveenachennupati.github.io/) &nbsp;·&nbsp; [**LinkedIn**](https://www.linkedin.com/in/chnaveena/) &nbsp;·&nbsp; [**Email**](mailto:chennu.naveena@gmail.com)
+
+
+**Resume:** [Download current resume (PDF)](https://naveenachennupati.github.io/downloads/Naga_Naveena_Chennupati_Resume.pdf) · **Location:** Chicago, Illinois · **Mobility:** Open to relocation · **Sponsorship:** Not required.
